@@ -393,14 +393,4 @@ The project demonstrates how the ServiceNow platform can be used to develop an a
 
 ---
 
-## 👩‍💻 Project Developed By
 
-**Nukala Lahari**
-
-**B.Tech – Computer Science and Engineering**
-
-**Seshadri Rao Gudlavalleru Engineering College**
-
----
-
-⭐ **If you find this project useful, consider giving the repository a star.**
